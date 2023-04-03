@@ -15,4 +15,5 @@ Fonctionnalités
 
 # Contributeurs
 
-Cette calculatrice a été créée par TOHOUEGNON Jean-Baptiste.
+Cette calculatrice a été créée par 
+## TOHOUEGNON Jean-Baptiste.
