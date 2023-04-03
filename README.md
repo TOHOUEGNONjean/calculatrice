@@ -1,4 +1,4 @@
-#Calculatrice
+## Calculatrice
 
 Ceci est une calculatrice de base réalisée en Python avec l'aide de la bibliothèque Tkinter.
 Utilisation
