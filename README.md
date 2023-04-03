@@ -1,4 +1,4 @@
-## Calculatrice
+# Calculatrice
 
 Ceci est une calculatrice de base réalisée en Python avec l'aide de la bibliothèque Tkinter.
 Utilisation
@@ -13,6 +13,6 @@ Fonctionnalités
     Addition, soustraction, multiplication et division
     Effacer les chiffres et les opérateurs
 
-#Contributeurs
+# Contributeurs
 
 Cette calculatrice a été créée par TOHOUEGNON Jean-Baptiste.
